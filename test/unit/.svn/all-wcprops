@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/CloudPlatform/!svn/ver/3643/CDR-CS2BS/test/unit
+END
+.eslintrc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/CloudPlatform/!svn/ver/3643/CDR-CS2BS/test/unit/.eslintrc
+END
+jest.conf.js
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/CloudPlatform/!svn/ver/3643/CDR-CS2BS/test/unit/jest.conf.js
+END
+setup.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/CloudPlatform/!svn/ver/3643/CDR-CS2BS/test/unit/setup.js
+END

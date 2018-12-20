@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/CloudPlatform/!svn/ver/3640/CDR-CS2BS/config
+END
+dev.env.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/CloudPlatform/!svn/ver/3640/CDR-CS2BS/config/dev.env.js
+END
+test.env.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/CloudPlatform/!svn/ver/3640/CDR-CS2BS/config/test.env.js
+END
+index.js
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/CloudPlatform/!svn/ver/3640/CDR-CS2BS/config/index.js
+END
+prod.env.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/CloudPlatform/!svn/ver/3640/CDR-CS2BS/config/prod.env.js
+END
